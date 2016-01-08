@@ -10,8 +10,16 @@
 }
 
 /* ABOUT ME */
+.col-sm-6 {
+    padding-right: 30px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
+
 .col-sm-6 img {
-    width: 400px;
+    width: 350px;
+    display: block;
+    padding-left: 30px;
 }
 
 
