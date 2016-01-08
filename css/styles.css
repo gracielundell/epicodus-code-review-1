@@ -23,6 +23,15 @@
 }
 
 /* PROJECTS */
+.row {
+    margin: 20px;
+    text-align: justify;
+}
+
+.row h3 {
+    text-align: center;
+}
+
 .col-sm-4 {
     padding: 10px;
 }
