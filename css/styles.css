@@ -55,11 +55,13 @@ body {
 .btn {
     background-color: #eee;
     color: #70c1b3;
+    font-size: 15px;
 }
 
 .custom a button:hover {
     background-color: #cbe7d4;
     color: #247BA0;
+    font-weight: bold;
 }
 
 /* FOOTER */
