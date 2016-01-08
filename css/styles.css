@@ -4,8 +4,12 @@
 }
 
 .navbar a {
-    color: #00ace6;
+    color: #70c1b3;
     font-size: 20px;
+}
+
+.custom li a:hover {
+    background-color: #cbe7d4;
 }
 
 /* JOMBOTRON */
@@ -44,7 +48,12 @@
 
 .btn {
     background-color: #eee;
-    color: #00ace6;
+    color: #70c1b3;
+}
+
+.custom a button:hover {
+    background-color: #cbe7d4;
+    color: #247BA0;
 }
 
 /* FOOTER */
@@ -54,9 +63,10 @@ footer {
 
 footer a {
     text-decoration: none;
-    color:  #00ace6;
+    color:  #70c1b3;
 }
 
 a:hover {
     text-decoration: underline;
+    color: #247BA0;
 }
