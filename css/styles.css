@@ -41,6 +41,10 @@ body {
 /* PROJECTS */
 .row {
     margin: 20px;
+    text-align: center;
+}
+
+.row p {
     text-align: justify;
 }
 
