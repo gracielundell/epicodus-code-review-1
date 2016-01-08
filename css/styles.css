@@ -3,6 +3,12 @@
     color: #00ace6;
 }
 
+/* JOMBOTRON */
+.jumbotron {
+    text-align: center;
+    padding: 10px;
+}
+
 /* FOOTER */
 footer {
     text-align: center;
