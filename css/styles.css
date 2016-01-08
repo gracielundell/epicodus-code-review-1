@@ -22,6 +22,11 @@
     padding-left: 30px;
 }
 
+/* PROJECTS */
+.projects {
+    padding: 10px;
+    border-bottom: 1px solid #00ace6;
+}
 
 /* FOOTER */
 footer {
