@@ -22,6 +22,15 @@
     padding-left: 30px;
 }
 
+/* PROJECTS */
+.col-sm-4 {
+    padding: 10px;
+}
+
+.btn {
+    background-color: #eee;
+    color: #00ace6
+}
 
 /* FOOTER */
 footer {
