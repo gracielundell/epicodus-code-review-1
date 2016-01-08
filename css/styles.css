@@ -23,9 +23,13 @@
 }
 
 /* PROJECTS */
-.projects {
+.col-sm-4 {
     padding: 10px;
-    border-bottom: 1px solid #00ace6;
+}
+
+.btn {
+    background-color: #eee;
+    color: #00ace6
 }
 
 /* FOOTER */
