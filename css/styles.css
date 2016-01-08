@@ -1,5 +1,7 @@
 /* NAVBAR */
-
+.navbar a {
+    color: #00ace6;
+}
 
 /* FOOTER */
 footer {
